@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=RaideNnigth" height="150" alt="languages graph"  />
 </div>
 
+##
+<img align="right" height="200" src="https://github.com/RaideNnigth/RaideNnigth/blob/main/shiro%20pickbrinder.png"  />
+
 ###
 
 <div align="left">
@@ -21,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
-
-<img align="right" height="200" src="https://github.com/RaideNnigth/RaideNnigth/blob/main/shiro%20pickbrinder.png"  />
 
 ###
 
