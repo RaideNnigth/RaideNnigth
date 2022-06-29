@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/RaideNnigth/RaideNnigth/blob/main/shiro%20pickbrinder.png"  />
+<img align="right" height="200" src="https://github.com/RaideNnigth/RaideNnigth/blob/main/shiro%20pickbrinder.png"  />
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/gustavo.pinzon55">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
