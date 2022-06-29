@@ -1,4 +1,4 @@
-<h2 align="left">Hello There ! Here is software developer, crazy to know more about the world</h2>
+<h2 align="left">Hello There ! Here is Software Developer, crazy to know more about the world</h2>
 
 ###
 
@@ -21,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
-
-###
 
 <img align="right" height="200" src="https://github.com/RaideNnigth/RaideNnigth/blob/main/shiro%20pickbrinder.png"  />
 
